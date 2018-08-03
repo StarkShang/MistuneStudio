@@ -1,0 +1,24 @@
+实验台/
+Papers/
+Works/
+Codes/matlab/Data/
+
+# data files
+*.csv
+/*.csv
+*.xls
+/*.xls
+*.mat
+/*.mat
+*.vsdx
+/*.vsdx
+
+# figure files
+*.fig
+/*.fig
+*.png
+/*.png
+
+# others
+*.rar
+/*.rar

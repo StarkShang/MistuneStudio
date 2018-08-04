@@ -3,6 +3,10 @@ Papers/
 Works/
 Codes/matlab/Data/
 
+#
+*.pyc
+/*.pyc
+
 # data files
 *.csv
 /*.csv

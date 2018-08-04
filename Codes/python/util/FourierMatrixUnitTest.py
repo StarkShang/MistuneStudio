@@ -21,4 +21,3 @@ class FourierMatrixUnitTest(unittest.TestCase):
             self.assertAlmostEqual(self.dimension, fourierMatrix[:,i].conj()@fourierMatrix[:,i])
 
 unittest.main(verbosity=2)
-
